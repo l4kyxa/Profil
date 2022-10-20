@@ -2,7 +2,7 @@
 <h1 align="center">👋Üdvözöllek👋</h1>
 <h3 align="center">Zsák József vagyok junior System administrator és önjelölt Developer</h3>
 
-| <p>&nbsp;<img src="https://github.com/l4kyxa/Profil/blob/main/Kepek/KEP00.jpg" width="170" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l4kyxa&show_icons=true&locale=en" alt="l4kyxa" /></p>  | 
+| <p>&nbsp;<img src="https://github.com/l4kyxa/Profil/blob/main/Kepek/KEP00.jpg" width="250"  /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l4kyxa&show_icons=true&locale=en" alt="l4kyxa" /></p>  | 
 |---|---|
  
 
