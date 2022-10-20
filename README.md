@@ -1,5 +1,5 @@
 
-<h1 align="center">Üdvözöllek 👋, I'm József Zsák</h1>
+<h1 align="center">👋Üdvözöllek👋</h1>
 <h3 align="center">Zsák József vagyok junior System administrator és önjelölt Developer</h3>
 <p align="center">
   <img src="https://github.com/l4kyxa/Profil/blob/main/Kepek/KEP00.jpg" alt=""title="ZsJ" width="150"/>
@@ -8,6 +8,7 @@
 <hr>
 
 <h3 align="left">Kapcsolat:</h3>
+
 * https://www.l4kyxa.hu
 * https://www.zsakjozsef.hu
 * l4kyxa@gmail.com
