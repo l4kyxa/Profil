@@ -1,10 +1,17 @@
-# ÜDVÖZÖLLEK
 
+<h1 align="center">Üdvözöllek 👋, I'm József Zsák</h1>
+<h3 align="center">Zsák József vagyok junior System administrator és önjelölt Developer</h3>
 <p align="center">
   <img src="https://github.com/l4kyxa/Profil/blob/main/Kepek/KEP00.jpg" alt=""title="ZsJ" width="150"/>
 </p>
 
-## Zsák József vagyok junior System administrator és önjelölt Developer.
+<hr>
+
+<h3 align="left">Kapcsolat:</h3>
+* https://www.l4kyxa.hu
+* https://www.zsakjozsef.hu
+* l4kyxa@gmail.com
+
 
 ## Már több éve foglalkozok hobbi szinten weblapok, egyedi szoftverek, speciális alkalmazások fejlesztésével
 
@@ -23,15 +30,7 @@ Ahhoz, hogy ezt sikerüljön elérnem, igyekszem a fejlesztési eszközök miné
 
 Amennyiben úgy gondolod tudok segíteni keress bizalommal.
 
-* https://www.l4kyxa.hu
-* https://www.zsakjozsef.hu
 
-
-
-<h1 align="center">Hi 👋, I'm József Zsák</h1>
-<h3 align="center">A passionate frontend developer from Hungary</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
