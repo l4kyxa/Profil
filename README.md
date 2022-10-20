@@ -22,7 +22,12 @@ Amennyiben úgy gondolod tudok segíteni keress bizalommal.
 
 |  A | B  |
 |---|---|
-|<img src="https://github.com/l4kyxa/Profil/blob/main/Kepek/KEP00.jpg" alt=""/>| sdsdsdfss  |
+|<img src="https://github.com/l4kyxa/Profil/blob/main/Kepek/KEP00.jpg" alt=""/>| * Precizitás
+* Innovativitás
+* Jó kommunikáció
+* Egyediség
+* Tudásvágy
+* Proaktivitás |
 |   |   |
 |   |   |
 
