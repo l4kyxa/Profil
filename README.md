@@ -1,5 +1,9 @@
 # ÜDVÖZÖLLEK
 
+<p align="center">
+  <img src="https://github.com/l4kyxa/Profil/blob/main/Kepek/KEP00.jpg" alt=""title="ZsJ" width="150"/>
+</p>
+
 ## Zsák József vagyok junior System administrator és önjelölt Developer.
 
 ## Már több éve foglalkozok hobbi szinten weblapok, egyedi szoftverek, speciális alkalmazások fejlesztésével
@@ -19,26 +23,7 @@ Ahhoz, hogy ezt sikerüljön elérnem, igyekszem a fejlesztési eszközök miné
 
 Amennyiben úgy gondolod tudok segíteni keress bizalommal.
 
-
-|  A | B  |
-|---|---|
-|<img src="https://github.com/l4kyxa/Profil/blob/main/Kepek/KEP00.jpg" alt=""/>| * Precizitás
-* Innovativitás
-* Jó kommunikáció
-* Egyediség
-* Tudásvágy
-* Proaktivitás |
-|   |   |
-|   |   |
-
-
-
-### Képernyőkép(ek):
-   * Kezdőképernyő 
-<p align="center">
-  <img src="https://github.com/l4kyxa/Profil/blob/main/Kepek/KEP00.jpg" alt=""/>
-</p>
-
-
+* https://www.l4kyxa.hu
+* https://www.zsakjozsef.hu
 
 
