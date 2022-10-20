@@ -5,11 +5,10 @@
   <img src="https://github.com/l4kyxa/Profil/blob/main/Kepek/KEP00.jpg" alt=""title="ZsJ" width="150"/>
 </p>
 
-| <img src="https://github.com/l4kyxa/Profil/blob/main/Kepek/KEP00.jpg" alt=""title="ZsJ" width="150"/>  | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l4kyxa&show_icons=true&locale=en" alt="l4kyxa" /></p>  | 
+|<p align="center">
+<img src="https://github.com/l4kyxa/Profil/blob/main/Kepek/KEP00.jpg" alt=""title="ZsJ" width="150"/></p>  | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l4kyxa&show_icons=true&locale=en" alt="l4kyxa" /></p>  | 
 |---|---|
-|   |   |   
-|   |   |  
-|   |   |  
+ 
 
 <hr>
 
