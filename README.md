@@ -20,6 +20,12 @@ Ahhoz, hogy ezt sikerüljön elérnem, igyekszem a fejlesztési eszközök miné
 Amennyiben úgy gondolod tudok segíteni keress bizalommal.
 
 
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
 
 
 ### Képernyőkép(ek):
