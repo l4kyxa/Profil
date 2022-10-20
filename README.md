@@ -20,11 +20,14 @@ Ahhoz, hogy ezt sikerüljön elérnem, igyekszem a fejlesztési eszközök miné
 Amennyiben úgy gondolod tudok segíteni keress bizalommal.
 
 
-|  A | B  |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|  A | B  |
+|---|---|
+| <p align="center">
+  <img src="https://github.com/l4kyxa/Profil/blob/main/Kepek/KEP00.jpg" alt=""/>
+</p>
+  |   |
+|   |   |
+|   |   |
 
 
 
