@@ -22,7 +22,7 @@ Amennyiben úgy gondolod tudok segíteni keress bizalommal.
 
 |  A | B  |
 |---|---|
-|<img src="https://github.com/l4kyxa/Profil/blob/main/Kepek/KEP00.jpg" alt=""/>|   |
+|<img src="https://github.com/l4kyxa/Profil/blob/main/Kepek/KEP00.jpg" alt=""/>| sdsdsdfss  |
 |   |   |
 |   |   |
 
