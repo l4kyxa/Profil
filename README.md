@@ -36,7 +36,7 @@
 <h3 align="left">Tapasztalat:</h3>
 
 
-## <h5 align="left">📍 Programozási nyelv</h5>
+<h5 align="left">📍 Programozási nyelv</h5>
 
 ><p align="left"> 
 ><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -45,6 +45,7 @@
 ><a href="https://www.erlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40"/> </a> 
 ><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 ></p>
+<hr>
 
 
 <h5 align="left">📍 Frontend</h5>
