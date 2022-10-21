@@ -62,6 +62,7 @@
 <h5 align="left">⚪ Backend</h5>
 
 ><p align="left">
+><a href="https://www.php.net//" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/PHP#/media/File:PHP-logo.svg" alt="php" width="40" height="40"/> </a> 
 ><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 ></p>
 <hr>
