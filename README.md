@@ -125,6 +125,6 @@
 
 <hr>
 
-👀 <p align="center"> <img src="https://komarev.com/ghpvc/?username=l4kyxa&label=Profile%20views&color=0e75b6&style=flat" alt="l4kyxa" /> </p> 👀
+<p align="center">👀 <img src="https://komarev.com/ghpvc/?username=l4kyxa&label=Profile%20views&color=0e75b6&style=flat" alt="l4kyxa" /> 👀 </p> 
 
 
